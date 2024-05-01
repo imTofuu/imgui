@@ -10,8 +10,6 @@ project "imgui"
     files {
         "*.h",
         "*.cpp",
-        "backends/imgui_impl_glfw.h",
-        "backends/imgui_impl_glfw.cpp"
     }
 
     filter "configurations:Debug"
