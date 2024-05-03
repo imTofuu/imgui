@@ -19,6 +19,3 @@ project "imgui"
     filter "configurations:Release"
         runtime "Release"
         optimize "speed"
-
-    
-
